@@ -1,0 +1,14 @@
+{
+  "name": "discord-selfbot-voice",
+  "version": "1.0.0",
+  "description": "Selfbot يدخل روم صوتي 24/7 مع ويب سيرفر لمنصة Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.15.0",
+    "@discordjs/voice": "^0.17.0",
+    "express": "^4.18.2"
+  }
+}
